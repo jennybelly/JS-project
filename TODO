@@ -16,4 +16,16 @@ Content Requirements:
 	Testimonials
 	Interest Category
 GitHub URL: https://github.com/jennybelly/JS-project.git
-Directory path: 
+Directory path: /Users/jenniferdellis/sites/jdportfolio
+
+
+
+---------
+
+
+
+
+STEPS TODO
+Create an index.html file in the document root
+Add bootstrap to index.html
+Create layout structure using bootstrap CSS grids (like fake Slack)
