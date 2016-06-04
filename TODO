@@ -1,0 +1,19 @@
+Project
+JD portfolio
+domain: jenniferdellis.com
+hosting: digital ocean
+Objective:
+Create a personal page that highlights Jennifer's copywriting and marketing skills for potential employers.
+Technologies:
+Bootstrap, LinkedIn link,
+Inspiration: http://blackrockdigital.github.io/startbootstrap-freelancer/
+Content Requirements:
+	Navigation
+	About Me - one-liner & paragraph
+	CTA - “Come hither tagline"
+	Contact - Name, Email, Phone, Project Details(Description)
+	Portfolio items - 4 (Read more…)
+	Testimonials
+	Interest Category
+GitHub URL: https://github.com/jennybelly/JS-project.git
+Directory path: 
